@@ -1,0 +1,65 @@
+[
+{ 
+    "productId":1, 
+    "productName":"Samsung Galaxy A22 5G 128 GB ", 
+    "productType":"Mobile", 
+    "productPrice":20000, 
+    "productMDate":"2021,8,12", 
+    "productImageUrl":"https://plasma-mobile.org/img/plasmaphone.svg"
+   },
+
+   { 
+    "productId":2, 
+    "productName":"Redmi TV 43-inch", 
+    "productType":"TV", 
+    "productPrice":25000, 
+    "productMDate":"2021,5,10",
+    "productImageUrl":"https://images.indianexpress.com/2021/10/Redmi-TV-review-1.jpg" 
+  },
+
+  { 
+    "productId":3, 
+    "productName":"Samsung Galaxy A22 5G 128 GB ", 
+    "productType":"Mobile", 
+    "productPrice":20000, 
+    "productMDate":"2021,8,12", 
+    "productImageUrl":"https://plasma-mobile.org/img/plasmaphone.svg"
+   }, 
+
+   { 
+    "productId":4, 
+    "productName":"Redmi TV 43-inch", 
+    "productType":"TV", 
+    "productPrice":25000, 
+    "productMDate":"2021,5,10",
+    "productImageUrl":"https://images.indianexpress.com/2021/10/Redmi-TV-review-1.jpg"
+  }, 
+
+  { 
+    "productId":5, 
+    "productName":"Sumsung TV 36inches", 
+    "productType":"TV", 
+    "productPrice":45000, 
+    "productMDate":"2020,11,25",
+    "productImageUrl":"https://cdn1.smartprix.com/rx-iZPWFXZzK-w420-h420/samsung-crystal-55au.jpg"
+    
+     },
+
+  {
+    "productId":6, 
+    "productName":"Voltas AC", 
+    "productType":"AC",
+    "productPrice":33000,  
+    "productMDate":"2020,0,27",
+    "productImageUrl":"https://5.imimg.com/data5/OQ/XZ/NL/SELLER-50725586/voltas-2-0ton-3star-split-ac-500x500.jpg"
+   },
+
+   { 
+    "productId":7, 
+    "productName":"Whirlpool Refrigerator",
+    "productType":"Refrigertor",  
+    "productPrice":47000, 
+    "productMDate":"2018,1,28",
+    "productImageUrl":"https://5.imimg.com/data5/SA/JZ/MX/SELLER-2694128/whirlpool-refrigerator-71229-1000x1000.jpg"
+   }
+]
